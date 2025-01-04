@@ -118,15 +118,3 @@ Contributions are welcome! Follow these steps:
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Contact
-
-For any inquiries or support, please reach out to:
-
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [sanchz4](https://github.com/sanchz4)
-
----
-
-Thank you for checking out this project! Feel free to explore, contribute, and provide feedback.
-
