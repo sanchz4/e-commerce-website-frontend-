@@ -23,6 +23,7 @@ A simple, clean, and responsive **frontend** for an e-commerce website. This pro
 ---
 
 ## Project Structure
+
 /
 ├── assets/ # Static assets like images, fonts
 ├── css/ # Stylesheets
